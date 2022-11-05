@@ -1,0 +1,9 @@
+Enter the number of employees
+4
+Number of the employees:4
+Here the goodies that are selected for distribution are:
+Macbook Pro: 229900
+Digital Camera: 11101
+Alexa: 9999
+Sandwich Toaster: 2195
+And the difference between the chosen goodies with highest price and the lowest price is:3121
